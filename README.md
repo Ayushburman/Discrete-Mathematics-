@@ -8,5 +8,3 @@ jklo
 ghji
 zxcv
 jiop
-asd
-j
