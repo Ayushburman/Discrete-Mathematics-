@@ -11,7 +11,6 @@ I
 J
 k
 n
-p
 q
 r
 s
