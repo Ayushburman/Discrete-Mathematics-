@@ -14,6 +14,5 @@ n
 o
 p
 q
-q
 r
 s
