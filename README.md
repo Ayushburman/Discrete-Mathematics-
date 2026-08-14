@@ -10,8 +10,6 @@ G
 I
 J
 k
-
-l
 n
 o
 p
