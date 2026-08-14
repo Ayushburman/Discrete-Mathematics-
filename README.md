@@ -10,7 +10,6 @@ G
 I
 J
 k
-i
 
 l
 m
