@@ -1,3 +1,1 @@
 # Discrete-Mathematics-
-A
-B
