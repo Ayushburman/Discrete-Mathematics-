@@ -3,6 +3,7 @@
 
 A structured map of discrete mathematics: where it came from, how its branches connect, and what each one covers. Built for GATE CSE 2027 preparation, sequenced by dependency rather than textbook order.
 
+
 ---
 
 ## Contents
