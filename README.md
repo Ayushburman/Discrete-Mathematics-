@@ -24,6 +24,7 @@ A structured map of discrete mathematics: where it came from, how its branches c
 - [GATE Weightage Summary](#gate-weightage-summary)
 - [Recommended Study Sequence](#recommended-study-sequence)
 
+
 ---
 
 ## Origins
