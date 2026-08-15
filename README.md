@@ -260,6 +260,7 @@ Discrete Mathematics is typically clubbed with Engineering Mathematics in GATE C
 
 ---
 
+
 ## Recommended Study Sequence
 
 1. Set Theory → Relations → Functions (foundation layer, cannot skip)
