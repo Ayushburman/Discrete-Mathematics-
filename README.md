@@ -257,6 +257,7 @@ Boole's 1854 algebra of logic, now the mathematics of digital circuits.
 | Boolean Algebra | Medium | Digital Logic, COA |
 | Algebraic Structures (Groups/Rings) | Low | Rarely deep, occasional 1-mark question |
 
+
 Discrete Mathematics is typically clubbed with Engineering Mathematics in GATE CSE and together contributes a significant share of the paper — historically in the 13–15 mark range across both.
 
 ---
