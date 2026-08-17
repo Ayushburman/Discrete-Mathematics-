@@ -12,7 +12,6 @@ e
 w
 er
 w
-w
 dds
 qwe
 dzds
