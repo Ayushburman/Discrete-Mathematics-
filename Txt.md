@@ -21,5 +21,4 @@ dds
 drd
 qwe
 dzds
-qt
-a
+
