@@ -11,9 +11,7 @@ q
 e
 w
 er
-q
 w
-t
 w
 w
 dds
