@@ -15,7 +15,6 @@ q
 w
 t
 w
-q
 w
 dds
 drd
