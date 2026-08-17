@@ -13,6 +13,3 @@ w
 er
 w
 dds
-qwe
-dzds
-
