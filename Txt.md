@@ -17,7 +17,6 @@ t
 w
 w
 dds
-drd
 qwe
 dzds
 
