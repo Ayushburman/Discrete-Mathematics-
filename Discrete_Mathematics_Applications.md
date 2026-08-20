@@ -353,7 +353,7 @@ Implement:
 
 > Truth Table Generator
 
-Good mini-project
+> Good mini-project
 
 Graph Route Finder
 
