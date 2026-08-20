@@ -363,7 +363,7 @@ Implement:
 
 > Advanced
 
-SAT Solver
+> SAT Solver
 
 Security-focused
 
