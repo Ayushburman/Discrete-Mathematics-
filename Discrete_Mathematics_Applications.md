@@ -20,7 +20,7 @@ Algebraic Structures	Cryptography, coding theory
 
 ⸻
 
-🚀 Project Ideas
+Project Ideas
 
 🟢 Beginner
 
