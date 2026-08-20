@@ -377,7 +377,7 @@ Implement:
 
 > Interactive Discrete Mathematics Laboratory
 
-Ultimate combination
+> Ultimate combination
 
 > Discrete Mathematics + TOC + Compiler Design Platform
 
