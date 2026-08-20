@@ -371,7 +371,7 @@ Implement:
 
 > AI-focused
 
-Logic Reasoning Engine
+> Logic Reasoning Engine
 
 Major/FYP
 
