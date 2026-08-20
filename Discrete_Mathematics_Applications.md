@@ -375,7 +375,7 @@ Implement:
 
 > Major/FYP
 
-Interactive Discrete Mathematics Laboratory
+> Interactive Discrete Mathematics Laboratory
 
 Ultimate combination
 
