@@ -58,7 +58,6 @@ A
 🟡 Intermediate
 
 6. Graph-Based Route Finder ⭐
-
 Use graph theory to find the shortest route.
 
 A ─── B ─── C
