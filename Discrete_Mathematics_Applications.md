@@ -351,7 +351,7 @@ Implement:
 
 > Easy
 
-Truth Table Generator
+> Truth Table Generator
 
 Good mini-project
 
