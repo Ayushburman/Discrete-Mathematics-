@@ -381,4 +381,4 @@ Implement:
 
 > Discrete Mathematics + TOC + Compiler Design Platform
 
-That last one can combine Logic → Sets → Relations → Graphs → Automata → Grammars → Parsing → Compilers → Algorithms, giving you a very strong CSE theory-based project ecosystem.
+> That last one can combine Logic → Sets → Relations → Graphs → Automata → Grammars → Parsing → Compilers → Algorithms, giving you a very strong CSE theory-based project ecosystem.
