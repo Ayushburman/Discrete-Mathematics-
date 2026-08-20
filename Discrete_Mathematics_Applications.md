@@ -365,7 +365,7 @@ Implement:
 
 > SAT Solver
 
-Security-focused
+> Security-focused
 
 RSA Cryptography System
 
