@@ -349,7 +349,7 @@ Implement:
 
 🔥 Best Projects by Difficulty
 
-Easy
+> Easy
 
 Truth Table Generator
 
