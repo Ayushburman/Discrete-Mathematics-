@@ -128,7 +128,6 @@ Application: university scheduling.
 9. Employee/Task Scheduling
 
 Use:
-
 * Combinatorics
 * Graph theory
 * Constraints
