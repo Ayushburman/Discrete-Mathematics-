@@ -357,7 +357,7 @@ Implement:
 
 > Graph Route Finder
 
-Strong project
+> Strong project
 
 Exam Timetable Generator using Graph Coloring
 
