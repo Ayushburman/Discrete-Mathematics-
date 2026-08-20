@@ -359,7 +359,7 @@ Implement:
 
 > Strong project
 
-Exam Timetable Generator using Graph Coloring
+> Exam Timetable Generator using Graph Coloring
 
 Advanced
 
