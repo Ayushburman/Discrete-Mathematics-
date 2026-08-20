@@ -373,7 +373,7 @@ Implement:
 
 > Logic Reasoning Engine
 
-Major/FYP
+> Major/FYP
 
 Interactive Discrete Mathematics Laboratory
 
